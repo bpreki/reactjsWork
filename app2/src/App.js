@@ -15,7 +15,7 @@ class App extends Component {
       //     return (
       //       <div className="App">       DOSE NOT RENDER BECAUSE WHOLE OBJECTS CANNOT BE DISPLAYED 
       //       {this.var1}                 TO RENEDER YOU MUST ACCESS OBJECT KEYS SEPERATELY
-      //       </div>
+      //       </div>                      \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ 
       //     );
       //   }
       // }
